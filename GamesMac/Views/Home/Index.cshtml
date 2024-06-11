@@ -1,0 +1,15 @@
+﻿@model HomeViewModel
+
+<h1>Venda de Jogos</h1>
+
+<partial name="_Carousel" />
+
+<h2>Os preferidos da semana</h2>
+<h4>Insanos!</h4>
+
+<div class="row">
+    @foreach(var game in Model.GamesPreferidos)
+    {
+        <partial name="_GamesResumo" for="@game"/>
+    }
+</div>

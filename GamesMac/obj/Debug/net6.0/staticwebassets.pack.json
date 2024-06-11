@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GamesMac.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GamesMac.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\carrinho.png",
+      "PackagePath": "staticwebassets\\images\\carrinho.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\carrinho2.png",
+      "PackagePath": "staticwebassets\\images\\carrinho2.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\dilucre.jpg",
+      "PackagePath": "staticwebassets\\images\\dilucre.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\adm.png",
+      "PackagePath": "staticwebassets\\images\\icons\\adm.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\arma.png",
+      "PackagePath": "staticwebassets\\images\\icons\\arma.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\controle.png",
+      "PackagePath": "staticwebassets\\images\\icons\\controle.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\desconto.png",
+      "PackagePath": "staticwebassets\\images\\icons\\desconto.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\negado.png",
+      "PackagePath": "staticwebassets\\images\\icons\\negado.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\ok.png",
+      "PackagePath": "staticwebassets\\images\\icons\\ok.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\registro.png",
+      "PackagePath": "staticwebassets\\images\\icons\\registro.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\icons\\user.png",
+      "PackagePath": "staticwebassets\\images\\icons\\user.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\layout\\jogo1.jpg",
+      "PackagePath": "staticwebassets\\images\\layout\\jogo1.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\layout\\jogo2.jpg",
+      "PackagePath": "staticwebassets\\images\\layout\\jogo2.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\layout\\jogo3.jpg",
+      "PackagePath": "staticwebassets\\images\\layout\\jogo3.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\layout\\jogo4.jpg",
+      "PackagePath": "staticwebassets\\images\\layout\\jogo4.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\layout\\jogo5.jpg",
+      "PackagePath": "staticwebassets\\images\\layout\\jogo5.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\lixeira.png",
+      "PackagePath": "staticwebassets\\images\\lixeira.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\tartagliare.jpg",
+      "PackagePath": "staticwebassets\\images\\tartagliare.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\images\\zhongli.jpg",
+      "PackagePath": "staticwebassets\\images\\zhongli.jpg"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\projetos\\GamesMac\\GamesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GamesMac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GamesMac.props",
+      "PackagePath": "build\\GamesMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GamesMac.props",
+      "PackagePath": "buildMultiTargeting\\GamesMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GamesMac.props",
+      "PackagePath": "buildTransitive\\GamesMac.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
